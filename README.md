@@ -33,8 +33,8 @@ This project is an excellent example for students and beginners learning how to:
 
 The app consists of two main Dart files:
 
-* **`main.dart`** → Entry point of the app that runs the MaterialApp widget
-* **`photohome.dart`** → Displays the actual photo gallery using a dynamic grid
+* **main.dart** → Entry point of the app that runs the MaterialApp widget
+* **photohome.dart** → Displays the actual photo gallery using a dynamic grid
 
 Images are stored inside a dedicated folder named `assets/images/`, where each file (e.g., `1.jpg`, `2.jpg`, etc.) is loaded into the grid view.
 
@@ -126,15 +126,11 @@ If something isn’t working correctly:
 * Run `flutter clean` and then `flutter pub get`
 * Restart your app completely (not just hot reload)
 
-Still stuck? Double-check that your image paths in the list match the file names exactly (case-sensitive on some systems).
-
----
-
 ## 📸 **Screenshots / Images**
 
-<img width="287" height="681" alt="Screenshot_3" src="https://github.com/user-attachments/assets/8ba22c3a-42e1-4dc0-b01e-c6b0df9e66f1" />
+<img width="287" height="681" alt="Screenshot_3" src="https://github.com/user-attachments/assets/94b7752e-24f2-4f73-9ee6-dd0da9a522ad" />
+<img width="282" height="640" alt="Screenshot_4" src="https://github.com/user-attachments/assets/1f541257-5044-4bab-ba11-ff4b9acc8523" />
 
-<img width="282" height="640" alt="Screenshot_4" src="https://github.com/user-attachments/assets/e4ee4d4a-d909-44f4-b558-398c559c0220" />
 
 ## 🧠 **Learning Benefits**
 
