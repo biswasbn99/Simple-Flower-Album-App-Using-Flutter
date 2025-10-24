@@ -1,5 +1,5 @@
 
-# 🌷 **flower Photo Album  App**
+# 🌷 **Flower Photo Album  App**
 
 > “A simple, elegant, and responsive photo gallery app built with Flutter — showcasing the beauty of grid layouts and local image assets.”
 
