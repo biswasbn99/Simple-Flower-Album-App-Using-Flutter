@@ -128,9 +128,8 @@ If something isn’t working correctly:
 
 ## 📸 **Screenshots / Images**
 
-<img width="287" height="681" alt="Screenshot_3" src="https://github.com/user-attachments/assets/94b7752e-24f2-4f73-9ee6-dd0da9a522ad" />
-<img width="282" height="640" alt="Screenshot_4" src="https://github.com/user-attachments/assets/1f541257-5044-4bab-ba11-ff4b9acc8523" />
-
+<img width="287" height="681" alt="Screenshot_3" src="https://github.com/user-attachments/assets/cfca0884-49e3-4e3d-ace7-3afef8c408f7" />
+<img width="282" height="640" alt="Screenshot_4" src="https://github.com/user-attachments/assets/6487fc4c-43a5-4ca6-afe9-c9a6e9b04dc5" />
 
 ## 🧠 **Learning Benefits**
 
