@@ -1,5 +1,5 @@
 
-# 🌷 **Flower Photo Album  App**
+# 🌷 **Flowers Photo Album  App**
 
 > “A simple, elegant, and responsive photo gallery app built with Flutter — showcasing the beauty of grid layouts and local image assets.”
 
@@ -27,7 +27,11 @@ This project is an excellent example for students and beginners learning how to:
 🌿 **Clean AppBar Design** – Features a centered title with bold, stylish typography
 🌷 **Easy to Customize** – Add or replace photos effortlessly, extend features as you grow
 
----
+## 📸 **Screenshots / Images**
+
+<img width="564" height="1280" alt="Screenshot_4" src="https://github.com/user-attachments/assets/728ad7b6-4a63-4458-b9b0-cd216caa3984" />
+<img width="574" height="1362" alt="Screenshot_3" src="https://github.com/user-attachments/assets/c860b8aa-b2b9-45d0-820a-db72a717b338" />
+
 
 ## 🧭 **Project Overview**
 
@@ -126,10 +130,6 @@ If something isn’t working correctly:
 * Run `flutter clean` and then `flutter pub get`
 * Restart your app completely (not just hot reload)
 
-## 📸 **Screenshots / Images**
-
-<img width="287" height="681" alt="Screenshot_3" src="https://github.com/user-attachments/assets/cfca0884-49e3-4e3d-ace7-3afef8c408f7" />
-<img width="282" height="640" alt="Screenshot_4" src="https://github.com/user-attachments/assets/6487fc4c-43a5-4ca6-afe9-c9a6e9b04dc5" />
 
 ## 🧠 **Learning Benefits**
 
